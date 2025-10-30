@@ -1,0 +1,2 @@
+# avoid upload java build files
+*.class
